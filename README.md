@@ -4,7 +4,7 @@ A presentation about career building and interviewing
 
 Built with [reveal.js](https://github.com/hakimel/reveal.js)
 
-View the slides [here](https://github.com/dkoston/marrying-a-company/index.html)
+View the slides [here](http://dkoston.github.io/marrying-a-company/#/)
 
 ## License
 
